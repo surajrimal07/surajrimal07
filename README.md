@@ -1,6 +1,31 @@
 # 💫 About Me:
-Hey there! 👋 I'm Suraj Rimal<br>🚀 Developer | 💡 Creator | 🌏 Dreamer<br><br>I'm a passionate tech enthusiast, continuously learning and building systems that make a difference. From coding scalable solutions to exploring the interplay of AI and finance, I'm always up for a challenge.<br><br>🚀 What I Do:<br>💻 Crafting Scalable Web Solutions with modern frameworks.<br>🌐 Exploring the intersection of AI and real-world applications.<br>🛠️ Building reliable, production-ready tools and workflows.<br>🌟 Quick Highlights:<br>🧠 Obsessed with learning and staying ahead in tech.<br>🌈 Advocate for clean code, modular systems, and innovative problem-solving.<br>🌍 Exploring ways to uplift businesses in Nepal’s economy.<br>📫 Get in Touch:<br>Feel free to connect, collaborate, or just say hi!<br><br>I’m always looking for that perfect blend of tech, creativity, and impact 🌟.
+Hey there! 👋 I'm Suraj Rimal<br>🚀 Developer | 💡 Creator | 🌏 Dreamer<br><br>
 
+I'm a passionate tech enthusiast, continuously learning and building systems that make a difference. From coding scalable solutions to exploring the interplay of AI and finance, I'm always up for a challenge.<br><br>
+
+## 💼 What I Do:  
+- 💻 Building **scalable web solutions** with cutting-edge tech stacks.  
+- 🤖 Exploring **AI** to bridge the gap between data and impactful business decisions.  
+- 🛠️ Crafting **production-ready tools** that stand the test of time.  
+- 🌍 Advocating for tech-driven solutions to bolster **Nepal’s economy**. 
+
+## 🎯 Core Values:  
+✨ **Always Learning:** I thrive on curiosity and the hunger to stay ahead of the curve.  
+💡 **Clean Code & Modular Systems:** Simplicity and scalability are my superpowers.  
+🌈 **Impactful Innovation:** I believe in creating tools that drive real-world value.  
+
+
+## 🚀 Quick Highlights:  
+- **Obsessed with Problem-Solving:** Turning complex challenges into elegant solutions.  
+- **Tech for Good:** Leveraging my skills to make an impact, one line of code at a time.  
+- **Visionary Thinker:** Focused on scalable systems and futuristic possibilities.  
+
+---
+
+### ✨ Fun Fact:  
+When I’m not coding, you’ll find me exploring the latest in **tech trends**, **business models**, or brainstorming ways to uplift Nepal’s **economic landscape**. 🌏  
+
+📬 **Reach Out Anytime:** I’m always up for a good conversation, collaboration, or mentorship!  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meettheflash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/weiggegg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajrimal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0x100000) 
@@ -23,5 +48,3 @@ Hey there! 👋 I'm Suraj Rimal<br>🚀 Developer | 💡 Creator | 🌏 Dreamer<
 
 ---
 [![](https://visitcount.itsvg.in/api?id=surajrimal07&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
