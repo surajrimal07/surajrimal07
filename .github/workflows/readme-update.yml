@@ -39,7 +39,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           API_BASE_URL: "https://wakapi.dev/api/compat/wakatime/v1"
           SHOW_TITLE: true
-          SECTION_NAME: "Wakatime Stats"
+          SECTION_NAME: "WakatimeStats"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
