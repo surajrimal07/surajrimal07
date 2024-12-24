@@ -37,9 +37,17 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          API_BASE_URL: https://wakapi.dev/api
+          API_BASE_URL: https://wakapi.dev/compat/wakatime
           SHOW_TITLE: true
-          SECTION_NAME: 🕒 Wakatime Stats
+          SECTION_NAME: Wakatime Stats
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
+
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: Suraj Rimal # optional
+          AUTHOR_EMAIL: davidparkedme@gmail.com # optional
