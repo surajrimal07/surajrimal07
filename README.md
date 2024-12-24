@@ -29,8 +29,8 @@ When I’m not coding, you’ll find me exploring the latest in **tech trends**,
 
 ![Snake animation](https://github.com/surajrimal07/surajrimal07/blob/output/github-snake-dark.svg)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:WakatimeStats-->
+<!--END_SECTION:WakatimeStats-->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meettheflash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/weiggegg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajrimal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0x100000)
