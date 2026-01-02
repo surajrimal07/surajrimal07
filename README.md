@@ -51,7 +51,7 @@ My expertise lies in the deep end of browser capabilities:
 ### 📊 The Data
 
 <div align="center">
-  <img src="https://wakapi.dev/api/activity/chart/surajrimal.svg" width="100%" />
+  <img src="https://wakapi.dev/api/activity/chart/surajrimal.svg?v=2026" alt="Wakapi Activity" />
 </div>
 
 ---
