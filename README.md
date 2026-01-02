@@ -71,8 +71,8 @@ My expertise lies in the deep end of browser capabilities:
   <img src="https://github.com/surajrimal07/surajrimal07/blob/output/github-snake-dark.svg" width="100%" />
 </div>
 
-<!--START_SECTION:WakatimeStats-->
-<!--END_SECTION:WakatimeStats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -80,7 +80,5 @@ My expertise lies in the deep end of browser capabilities:
   <p>Ready to push the boundaries of what a browser can do?</p>
   <a href="mailto:contact@surajrimal.com"><b>Let's Connect</b></a>
   <br/><br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=surajrimal07&icon=7&color=12" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=surajrimal07&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
