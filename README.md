@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Suraj%20Rimal&fontSize=70&desc=Web%20Extension%20Architect%20%7C%20Backend%20Engineer%20%7C%20AI%20Integrator&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suraj%20Rimal&fontSize=70&desc=Web%20Extension%20Architect%20%7C%20Backend%20Engineer%20%7C%20AI%20Integrator&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <h1 align="center">Building the Browser of Tomorrow</h1>
@@ -63,16 +63,11 @@ My expertise lies in the deep end of browser capabilities:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajrimal07&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+
 
 <div align="center">
   <img src="https://github.com/surajrimal07/surajrimal07/blob/output/github-snake-dark.svg" width="100%" />
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
