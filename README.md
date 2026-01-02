@@ -49,13 +49,9 @@ My expertise lies in the deep end of browser capabilities:
 ---
 
 ### 📊 The Data
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
-  <img src="https://github.com/surajrimal07/surajrimal07/blob/output/github-snake-dark.svg" width="100%" />
+  <img src="https://wakapi.dev/api/activity/chart/surajrimal.svg" width="100%" />
 </div>
 
 ---
