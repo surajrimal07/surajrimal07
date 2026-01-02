@@ -1,54 +1,86 @@
-# 💫 About Me:
-Hey there! 👋 I'm Suraj Rimal<br>🚀 Developer | 💡 Creator | 🌏 Dreamer<br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Suraj%20Rimal&fontSize=70&desc=Web%20Extension%20Architect%20%7C%20Backend%20Engineer%20%7C%20AI%20Integrator&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" />
+</div>
 
-I'm a passionate tech enthusiast, continuously learning and building systems that make a difference. From coding scalable solutions to exploring the interplay of AI and finance, I'm always up for a challenge.<br><br>
+<h1 align="center">Building the Browser of Tomorrow</h1>
 
-## 💼 What I Do:
-- 💻 Building **scalable web solutions** with cutting-edge tech stacks.
-- 🤖 Exploring **AI** to bridge the gap between data and impactful business decisions.
-- 🛠️ Crafting **production-ready tools** that stand the test of time.
-- 🌍 Advocating for tech-driven solutions to bolster **Nepal’s economy**.
+<div align="center">
+  <a href="https://linkedin.com/in/surajrimal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/0x100000">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:contact@surajrimal.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-## 🎯 Core Values:
-✨ **Always Learning:** I thrive on curiosity and the hunger to stay ahead of the curve.
-💡 **Clean Code & Modular Systems:** Simplicity and scalability are my superpowers.
-🌈 **Impactful Innovation:** I believe in creating tools that drive real-world value.
+<br />
 
+> **"I don't just build websites; I extend the capability of the browser itself."**
 
-## 🚀 Quick Highlights:
-- **Obsessed with Problem-Solving:** Turning complex challenges into elegant solutions.
-- **Tech for Good:** Leveraging my skills to make an impact, one line of code at a time.
-- **Visionary Thinker:** Focused on scalable systems and futuristic possibilities.
+I am a specialized **Web Extension Expert** and **Backend Developer** with years of experience crafting complex, high-performance browser environments. My work goes beyond simple popups—I build sophisticated, AI-powered applications that live within the browser, interfacing seamlessly with robust backend architectures.
 
 ---
 
-### ✨ Fun Fact:
-When I’m not coding, you’ll find me exploring the latest in **tech trends**, **business models**, or brainstorming ways to uplift Nepal’s **economic landscape**. 🌏
+### 🛠️ The Arsenal
 
-📬 **Reach Out Anytime:** I’m always up for a good conversation, collaboration, or mentorship!
+<div align="center">
 
-![Snake animation](https://github.com/surajrimal07/surajrimal07/blob/output/github-snake-dark.svg)
+| **Extension Core** | **Backend & AI** | **Frontend & UI** | **DevOps & Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Chrome](https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![WXT](https://img.shields.io/badge/WXT_Framework-000000?style=flat-square&logo=googlechrome&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Plasmo](https://img.shields.io/badge/Plasmo-090909?style=flat-square&logo=plasmo&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| ![Manifest V3](https://img.shields.io/badge/Manifest_V3-FF0000?style=flat-square&logo=googlechrome&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+### 🧩 Specialized Engineering
+
+My expertise lies in the deep end of browser capabilities:
+
+*   **Complex State Management**: Orchestrating seamless communication between Content Scripts, Background Services, and Popups.
+*   **AI Integration**: Embedding Large Language Models (OpenAI, Anthropic) directly into the user's workflow for real-time, context-aware assistance.
+*   **Cross-Browser Architecture**: Engineering unified codebases that deploy flawlessly to Chrome, Firefox, Safari, and Edge.
+*   **High-Volume Backend Systems**: Building scalable APIs and microservices that power the extension ecosystem.
+
+---
+
+### 📊 The Data
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajrimal07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrimal07&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrimal07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=surajrimal07&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/surajrimal07/surajrimal07/blob/output/github-snake-dark.svg" width="100%" />
+</div>
 
 <!--START_SECTION:WakatimeStats-->
 <!--END_SECTION:WakatimeStats-->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meettheflash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/weiggegg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajrimal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0x100000)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=surajrimal07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=surajrimal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajrimal07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=surajrimal07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=surajrimal07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=surajrimal07&icon=7&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <p>Ready to push the boundaries of what a browser can do?</p>
+  <a href="mailto:contact@surajrimal.com"><b>Let's Connect</b></a>
+  <br/><br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=surajrimal07&icon=7&color=12" />
+  </a>
+</div>
